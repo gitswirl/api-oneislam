@@ -112,7 +112,7 @@ Each Hadith book contains multiple chapters. To avoid large data loads, it is re
 
 This endpoint returns a specific Hadith or verse from the desired book.
 
-**Example**: [https://api-oneislam.vercel.app/api/hadith/abudawud/verse1000](https://api-oneislam.vercel.app/api/hadith/abudawud/verse1000)
+**Example**: [https://api-oneislam.vercel.app/api/hadith/abudawud/english/verse1000](https://api-oneislam.vercel.app/api/hadith/abudawud/english/verse1000)
 
 ---
 
